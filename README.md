@@ -21,7 +21,8 @@
 3. 運行場景 `MainScene`
 
 ## 截圖與演示
-（在此插入遊戲運行截圖）
+<img width="1460" height="905" alt="Unity-agent01" src="https://github.com/user-attachments/assets/72d3a58b-1a48-43f5-b7e7-e7cf94963292" />
+
 
 ## 申請 MiMo Token 激勵計劃相關
 本項目主要使用 Cursor + MiMo 模型輔助完成 Unity C# 開發，證明 AI 可有效提升遊戲開發效率。
